@@ -8,7 +8,7 @@ By using this website, I hope to achieve the following:
 1. Explore the markdown langauge for myself  
 
 ## Links:
-- 
+- [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "A short biography")
 -
 -
 ![Mizzou Columns](https://i.etsystatic.com/6743539/r/il/cfa0c8/525271223/il_1588xN.525271223_c4wg.jpg)
