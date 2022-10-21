@@ -11,7 +11,7 @@ By using this website, I hope to achieve the following:
 - [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "A short biography")
 - [Grocery List](https://github.com/EricMHanks/myGroceryList/blob/main/README.md "Filler")
 - [HelloWorld](https://github.com/EricMHanks/hello-world/edit/main/README.md "Hello, World")
--
+- [My Code](https://github.com/EricMHanks/my-code "Portfolio of Code")
 
 ===============================================
 
