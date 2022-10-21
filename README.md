@@ -9,6 +9,6 @@ By using this website, I hope to achieve the following:
 
 ## Links:
 - [About Me](https://github.com/EricMHanks/aboutMe/blob/main/README.md "A short biography")
--
+- [Grocery List](https://github.com/EricMHanks/myGroceryList/blob/main/README.md "Filler")
 -
 ![Mizzou Columns](https://i.etsystatic.com/6743539/r/il/cfa0c8/525271223/il_1588xN.525271223_c4wg.jpg)
